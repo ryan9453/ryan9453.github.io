@@ -8,13 +8,12 @@
     <language>zh-tw</language>
     <lastBuildDate>Fri, 04 Feb 2022 10:07:47 +0800</lastBuildDate><atom:link href="https://ryan9453.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>團體專題作品</title>
-      <link>https://ryan9453.github.io/blog/myteamproject/</link>
+      <title>專題作品</title>
+      <link>https://ryan9453.github.io/blog/mywork/</link>
       <pubDate>Fri, 04 Feb 2022 10:07:47 +0800</pubDate>
       
-      <guid>https://ryan9453.github.io/blog/myteamproject/</guid>
-      <description>成果報告PDF
-報告影片   </description>
+      <guid>https://ryan9453.github.io/blog/mywork/</guid>
+      <description>[個人專題]-選擇障礙神器 簡介： 這是一款可以解決各種選擇障礙問題的 Linebot，許多人在生活上會遇到十字路口 最常見的是要吃什麼，針對吃的這項功能也有客製美食口袋名單的功能 其他功能像是二選一、多選題也有相應的功能，歡迎一起克服選擇障礙! 作品連結：  [團體專題]-攝食星球 簡介： 這是一款透過圖片辨識去計算食物熱量的 Linebot，使用的是 YOLO的模型 除了計算熱量之外，還可記錄飲食，裡面的吉祥物 Lucas也會根據使用者的飲食去變胖變瘦 讓人養成紀錄的習慣之外，還有趣味性 作品連結： 試玩圖片：  單一品項：  多種品項：  成果報告PDF</description>
     </item>
     
   </channel>
