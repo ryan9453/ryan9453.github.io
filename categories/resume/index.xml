@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resume on Ryan履歷</title>
+    <link>https://ryan9453.github.io/categories/resume/</link>
+    <description>Recent content in resume on Ryan履歷</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 04 Feb 2022 10:07:47 +0800</lastBuildDate><atom:link href="https://ryan9453.github.io/categories/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的簡歷</title>
+      <link>https://ryan9453.github.io/blog/resume/</link>
+      <pubDate>Fri, 04 Feb 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://ryan9453.github.io/blog/resume/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linebot on Ryan履歷</title>
+    <link>https://ryan9453.github.io/tags/linebot/</link>
+    <description>Recent content in Linebot on Ryan履歷</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 04 Feb 2022 10:07:47 +0800</lastBuildDate><atom:link href="https://ryan9453.github.io/tags/linebot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>團體專題作品</title>
+      <link>https://ryan9453.github.io/blog/myteamproject/</link>
+      <pubDate>Fri, 04 Feb 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://ryan9453.github.io/blog/myteamproject/</guid>
+      <description>成果報告PDF
+報告影片   </description>
+    </item>
+    
+    <item>
+      <title>我的簡歷</title>
+      <link>https://ryan9453.github.io/blog/resume/</link>
+      <pubDate>Fri, 04 Feb 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://ryan9453.github.io/blog/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>組員給自己的評語</title>
+      <link>https://ryan9453.github.io/blog/reviews/</link>
+      <pubDate>Fri, 04 Feb 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://ryan9453.github.io/blog/reviews/</guid>
+      <description>MingLong 形容詞：勤奮、喜歡解決問題、負責任、積極主動、好奇、溫和 評語：在執行組專過程時 擔任組長 負責主持會議 決議 與各項工作的執行，遇到不熟悉的bug會主動嘗試理解並解決，甚至精進如何減短coding Liudo 形容詞：理性、認真、重視方法、善交際、隨和 評語：當專題組長時 即使有組員不容易溝通交流想法 依然可以保持理性與認真的態度完成任務 Ruby 形容詞：自省、實際、樂於助人 評語：專題大家有問題提出來會幫忙一起討論解決 </description>
+    </item>
+    
+  </channel>
+</rss>
